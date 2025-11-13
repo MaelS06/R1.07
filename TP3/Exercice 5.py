@@ -15,7 +15,7 @@ while True:
     heures_tarif_1 = 0
     heures_tarif_2 = 0
 
-    for h in range(debut, fin):
+    for h in range (debut, fin):
         if (0 <= h < 7) or (17 <= h < 24):
             heures_tarif_1 += 1
         else:
