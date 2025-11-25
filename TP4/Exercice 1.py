@@ -1,4 +1,4 @@
-x = print("Donnez un nombre :")
+x = int(input("Donnez un nombre :")
 table =[]
 for k in range (10):
     y = x * k
