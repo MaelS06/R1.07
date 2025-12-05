@@ -1,5 +1,3 @@
-# Monnaie.py
-
 somme = int(input("Entrez la somme : "))
 
 reste = somme
